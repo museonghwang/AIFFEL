@@ -2,8 +2,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuseonghwang%2FAIFFEL-project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<p align="center"><img src= "aiffel_logo.jpg"></p>
+<br>
+<p align="center"> 🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트 </p>
+<br>
 
-# Exploration
+### Exploration
+
+---
 
 | Num. | Contents | Description | Concept | Link |
 | ----- | ----- | ----- | ----- | ----- |
@@ -26,7 +32,9 @@
 | 17 |  | 난 스케치를 할 테니 너는 채색을 하거라 |  | [Link]() |
 
 
-# Going Deeper
+### Going Deeper
+
+---
 
 | Num. | Contents | Description | Concept | Link |
 | ----- | ----- | ----- | ----- | ----- |
