@@ -1,9 +1,16 @@
-# <p align="center"> AIFFEL Project(대문 수정중) </p>
+# AIFFEL AI 실습 및 프로젝트
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuseonghwang%2FAIFFEL-project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center"><img src= "aiffel_logo.jpg"></p>
 <br>
+
+* AIFFEL 부산캠퍼스에서 AI를 공부하며 배운 내용을 정리하고 프로젝트 파일을 저장하는 곳입니다.
+* 기간: 2021년 12월 26일 ~ 
+* 주관: 모두의연구소 AIFFEL
+
+<br>
+
 <p align="center"> 🏆 AIFFEL Data Science, Machine Learning, Deep Learning 프로젝트 </p>
 <br>
 
