@@ -45,4 +45,4 @@
 | 5 | Class Activation Map  | Class Activation Map 살펴보기 | XAI, CAM, Grad-CAM | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_05/%5BGD-05%5D%20Take%20a%20look%20at%20the%20Class%20Activation%20Map.ipynb) |
 | 6 | Detection with CAM | Class Activation Map 만들기 | CAM, Grad-CAM, Bbox | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_06/%5BGD-06%5D%20Create%20Class%20Activation%20Map%20And%20Evaluation.ipynb) |
 | 7 | Object Detection | 딥러닝 기반의 Object detection | RCNN, Fast RCNN, Faster RCNN, SSD, Yolo | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_07/%5BGD-07%5D%20Object%20Detection%20Concept.ipynb) |
-| 8 | Object Detection | 자율주행 보조 시스템 만들기 | RetinaNet, KITTI | [Link]() |
+| 8 | Object Detection | 자율주행 보조 시스템 만들기 | RetinaNet, KITTI | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_08/%5BGD_08%5D_Creating_an_autonomous_driving_assistance_system.ipynb) |
