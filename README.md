@@ -11,7 +11,7 @@
 
 ---
 
-| Num. | Contents | Description | Concept | Link |
+|  | Contents | Description | Concept | Link |
 | ----- | ----- | ----- | ----- | ----- |
 | 1 | Image Classification | MNIST 손글씨 분류 | 가위바위보 분류기 | [Link]() |
 | 2 | Tabular Classification| Iris의 세 가지 품종, 분류해볼 수 있겠어요?(Iris 품종 분류) | Digits, Wine, Breast cancer 분류 | [Link]() |
@@ -36,7 +36,7 @@
 
 ---
 
-| Num. | Contents | Description | Concept | Link |
+|  | Contents | Description | Concept | Link |
 | ----- | ----- | ----- | ----- | ----- |
 | 1 | BackBone Network | 백본 네트워크 구조 상세분석 | VGGNet, ResNet, SENet, EfficientNet | [Link]() |
 | 2 | Ablation Study | Plain모델과 Residual모델 비교 분석 | VGGNet, ResNet Implement | [Link]() |
@@ -44,3 +44,5 @@
 | 4 | Augmentation | 이미지 어디까지 우려볼까? | Data Augmentation, Cutmix, Mixup | [Link]() |
 | 5 | Class Activation Map  | Class Activation Map 살펴보기 | XAI, CAM, Grad-CAM | [Link]() |
 | 6 | Detection with CAM | Class Activation Map 만들기 | CAM, Grad-CAM, Bbox | [Link]() |
+| 7 | Object Detection | 딥러닝 기반의 Object detection | RCNN, SSD, Yolo | [Link]() |
+| 8 | Object Detection | 자율주행 보조 시스템 만들기 | RetinaNet, KITTI | [Link]() |
