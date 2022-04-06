@@ -38,11 +38,11 @@
 
 |  | Contents | Description | Concept | Link |
 | ----- | ----- | ----- | ----- | ----- |
-| 1 | BackBone Network | 백본 네트워크 구조 상세분석 | VGGNet, ResNet, SENet, EfficientNet | [Link]() |
-| 2 | Ablation Study | Plain모델과 Residual모델 비교 분석 | VGGNet, ResNet Implement | [Link]() |
-| 3 | Augmentation | 다양한 Data Augmentation 기법 | imgaug, tf.image, albumentations | [Link]() |
-| 4 | Augmentation | 이미지 어디까지 우려볼까? | Data Augmentation, Cutmix, Mixup | [Link]() |
-| 5 | Class Activation Map  | Class Activation Map 살펴보기 | XAI, CAM, Grad-CAM | [Link]() |
-| 6 | Detection with CAM | Class Activation Map 만들기 | CAM, Grad-CAM, Bbox | [Link]() |
-| 7 | Object Detection | 딥러닝 기반의 Object detection | RCNN, SSD, Yolo | [Link]() |
+| 1 | BackBone Network | 백본 네트워크 구조 상세분석 | VGGNet, ResNet, SENet, EfficientNet | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_01/%5BGD-01%5D%20Detailed%20analysis%20of%20backbone%20network%20structure.ipynb) |
+| 2 | Ablation Study | Plain모델과 Residual모델 비교 분석 | VGGNet, ResNet Implement | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_02/%5BGD-02%5D%20Resnet%20Ablation%20Study.ipynb) |
+| 3 | Augmentation | 다양한 Data Augmentation 기법 | imgaug, tf.image, albumentations | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_03/%5BGD-03%5D%20Augmentation%20Basic.ipynb) |
+| 4 | Augmentation | 이미지 어디까지 우려볼까? | Data Augmentation, Cutmix, Mixup | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_04/%5BGD-04%5D%20Cutmix%20and%20Mixup%20Augmentation%20compare.ipynb) |
+| 5 | Class Activation Map  | Class Activation Map 살펴보기 | XAI, CAM, Grad-CAM | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_05/%5BGD-05%5D%20Take%20a%20look%20at%20the%20Class%20Activation%20Map.ipynb) |
+| 6 | Detection with CAM | Class Activation Map 만들기 | CAM, Grad-CAM, Bbox | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_06/%5BGD-06%5D%20Create%20Class%20Activation%20Map%20And%20Evaluation.ipynb) |
+| 7 | Object Detection | 딥러닝 기반의 Object detection | RCNN, Fast RCNN, Faster RCNN, SSD, Yolo | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_07/%5BGD-07%5D%20Object%20Detection%20Concept.ipynb) |
 | 8 | Object Detection | 자율주행 보조 시스템 만들기 | RetinaNet, KITTI | [Link]() |
