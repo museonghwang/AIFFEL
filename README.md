@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuseonghwang%2FAIFFEL-project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="center"><img src= "aiffel_logo.jpg"></p>
+<p align="center"><img src= "logo.png"></p>
 <br>
 
 * AIFFEL 부산캠퍼스에서 AI를 공부하며 배운 내용을 정리하고 프로젝트 파일을 저장하는 곳입니다.
@@ -53,3 +53,7 @@
 | 6 | Detection with CAM | Class Activation Map 만들기 | CAM, Grad-CAM, Bbox | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_06/%5BGD-06%5D%20Create%20Class%20Activation%20Map%20And%20Evaluation.ipynb) |
 | 7 | Object Detection | 딥러닝 기반의 Object detection | RCNN, Fast RCNN, Faster RCNN, SSD, Yolo | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_07/%5BGD-07%5D%20Object%20Detection%20Concept.ipynb) |
 | 8 | Object Detection | 자율주행 보조 시스템 만들기 | RetinaNet, KITTI | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_08/%5BGD_08%5D_Creating_an_autonomous_driving_assistance_system.ipynb) |
+| 9 | Segmentation | 딥러닝 기반의 Segmentation | segmentation, FCN, U-Net, DeepLab | [Link]() |
+| 10 | Segmentation | 개선된 U-Net 모델 만들기 | U-Net, U-Net++, KITTI | [Link]() |
+| 11 | OCR | OCR 기술의 개요 | OCR, Text Detection, Text Recognition | [Link]() |
+| 12 | End-to-End OCR | 직접 만들어보는 OCR | keras-ocr, CRNN | [Link]() |
