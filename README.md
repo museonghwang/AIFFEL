@@ -21,9 +21,9 @@
 |  | Contents | Description | Concept | Link |
 | ----- | ----- | ----- | ----- | ----- |
 | 1 | Image Classification | 인공지능과 가위바위보 하기 | CNN | [Link]() |
-| 2 | Tabular Classification | Digits, Wine, Breast cancer 분류 | scikit-learn, ML | [Link]() |
-| 3 | Face Detection | 카메라 스티커앱 만들기 |  | [Link]() |
-| 4 | Text Generation | 작사가 인공지능 만들기 |  | [Link]() |
+| 2 | Tabular Classification | Digits, Wine, Breast cancer 분류 | ML, sklearn, Metric | [Link]() |
+| 3 | Face Detection | 카메라 스티커앱 만들기 | dlib, Face Detection, face landmark | [Link]() |
+| 4 | Text Generation | 작사가 인공지능 만들기 | Regex, tokenize, Sequence Data, RNN, LSTM, tf.data.Dataset | [Link]() |
 | 5 | Kaggle | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 |  | [Link]() |
 | 6 | Sentiment Classification | 영화리뷰 텍스트 감성분석하기 |  | [Link]() |
 | 7 | Face Recognition | 인물사진을 만들어 보자 |  | [Link]() |
@@ -38,6 +38,7 @@
 | 16 | Session-Based Recommentaion | 다음에 볼 영화 예측하기 |  | [Link]() |
 | 17 | Conditioanl GAN | 난 스케치를 할 테니 너는 채색을 하거라 |  | [Link]() |
 
+<br>
 
 ### Going Deeper
 
