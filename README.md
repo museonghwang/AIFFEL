@@ -53,7 +53,7 @@
 | 6 | Detection with CAM | Class Activation Map 만들기 | CAM, Grad-CAM, Bbox | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_06/%5BGD-06%5D%20Create%20Class%20Activation%20Map%20And%20Evaluation.ipynb) |
 | 7 | Object Detection | 딥러닝 기반의 Object detection | RCNN, Fast RCNN, Faster RCNN, SSD, Yolo | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_07/%5BGD-07%5D%20Object%20Detection%20Concept.ipynb) |
 | 8 | Object Detection | 자율주행 보조 시스템 만들기 | RetinaNet, KITTI | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_08/%5BGD_08%5D_Creating_an_autonomous_driving_assistance_system.ipynb) |
-| 9 | Segmentation | 딥러닝 기반의 Segmentation | segmentation, FCN, U-Net, DeepLab | [Link]() |
-| 10 | Segmentation | 개선된 U-Net 모델 만들기 | U-Net, U-Net++, KITTI | [Link]() |
-| 11 | OCR | OCR 기술의 개요 | OCR, Text Detection, Text Recognition | [Link]() |
+| 9 | Segmentation | 딥러닝 기반의 Segmentation | segmentation, FCN, U-Net, DeepLab | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_09/%5BGD-09%5D%20Segmentation%20Concept.ipynb) |
+| 10 | Segmentation | 개선된 U-Net 모델 만들기 | U-Net, U-Net++, KITTI | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_10/%5BGD_10%5D_Creating_an_improved_U_Net_model.ipynb) |
+| 11 | OCR | OCR 기술의 개요 | OCR, Text Detection, Text Recognition | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_11/%5BGD-11%5D%20OCR_%20Optical%20Character%20Recognition%20Concept.ipynb) |
 | 12 | End-to-End OCR | 직접 만들어보는 OCR | keras-ocr, CRNN | [Link]() |
