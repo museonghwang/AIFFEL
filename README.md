@@ -57,4 +57,4 @@
 | 9 | Segmentation | 딥러닝 기반의 Segmentation | segmentation, FCN, U-Net, DeepLab | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_09/%5BGD-09%5D%20Segmentation%20Concept.ipynb) |
 | 10 | Segmentation | 개선된 U-Net 모델 만들기 | U-Net, U-Net++, KITTI | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_10/%5BGD_10%5D_Creating_an_improved_U_Net_model.ipynb) |
 | 11 | OCR | OCR 기술의 개요 | OCR, Text Detection, Text Recognition | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_11/%5BGD-11%5D%20OCR_%20Optical%20Character%20Recognition%20Concept.ipynb) |
-| 12 | End-to-End OCR | 직접 만들어보는 OCR | keras-ocr, CRNN | [Link]() |
+| 12 | End-to-End OCR | 직접 만들어보는 OCR | keras-ocr, CRNN | [Link](https://github.com/museonghwang/AIFFEL/blob/master/GoingDeeper_12/%5BGD_12%5D_End_to_End_OCR.ipynb) |
